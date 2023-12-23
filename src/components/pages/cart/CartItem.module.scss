@@ -1,0 +1,40 @@
+.wrapper {
+    border: 1px solid rgb(250, 247, 247);
+    margin: 0px 30px;
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+    margin-right: 150px;
+    margin-bottom: 30px;
+}
+
+.image {
+    width: 220px;
+    height: 120px;
+}
+
+.block__info {
+    margin-left: 50px;
+}
+
+.price {
+    font-size: 30px;
+    color: rgb(87, 61, 13);
+}
+
+.title {
+    font-size: 40px;
+    color: green;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.button {
+    height: 35px;
+    width: 110px;
+    position: absolute;
+    right: 30px;
+    top: 38px;
+    background-color: rgb(99, 178, 231);
+    color: white;
+}

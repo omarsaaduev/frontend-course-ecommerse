@@ -1,0 +1,22 @@
+.layout {
+    padding: 5px;
+    header {
+        nav {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            a {
+                text-decoration: none;
+                font-size: 30px;
+                color: rgb(12, 179, 12);
+                margin-right: 20px;
+                font-weight: 600;
+            }
+        }
+    }
+
+    .heading {
+        font-size: 3.75rem; /* 60px */
+        line-height: 4.95rem; /* 84px */
+    }
+}
